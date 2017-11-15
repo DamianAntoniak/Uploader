@@ -1,0 +1,16 @@
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\bin\Debug\Uploader.exe
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\bin\Debug\Uploader.pdb
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.csproj.GenerateResource.Cache
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.exe
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.pdb
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\bin\Debug\Uploader.exe
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\bin\Debug\Uploader.pdb
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.csprojResolveAssemblyReference.cache
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.csproj.GenerateResource.Cache
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.csproj.CoreCompileInputs.cache
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.exe
+E:\C\Visual Studio 2010\Projects\Uploader\Uploader\obj\x86\Debug\Uploader.pdb

@@ -1,0 +1,7 @@
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\bin\Release\Uploader.exe
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\bin\Release\Uploader.pdb
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Release\Uploader.csproj.GenerateResource.Cache
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Release\Uploader.exe
+C:\Users\damia_000\documents\visual studio 2010\Projects\Uploader\Uploader\obj\x86\Release\Uploader.pdb
